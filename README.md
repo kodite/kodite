@@ -3,10 +3,9 @@
 
 ## I'm a Developer, Project Manager, Business Consultant and Entrepreneur.
 
-- 🔭 I’m currently working on a building my own web appications for my businesses.
+- 🔭 I’m currently working on building web appications for my businesses.
 - 🌱 I’m currently learning spring development.
-- 🤔 I’m looking for other work on spring projects, ideally in Switzerland.
-- 😄 Pronouns: he/him
+- 🤔 I’m looking for other work on spring projects, ideally in or connected with Switzerland.
 - ⚡ Fun fact: I maintain my own car.
 
 🏡 [website][website] **|** 
