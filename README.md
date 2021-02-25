@@ -1,12 +1,11 @@
 ### Hi, I'm Ian. 👋
 
 
-Here are some ideas to get you started:
+## I'm a Developer, Project Manager, Business Consultant and Entrepreneur.
 
-- 🔭 I’m currently working on a building my own web appication.
+- 🔭 I’m currently working on a building my own web appications for my businesses.
 - 🌱 I’m currently learning spring development.
-- 👯 I’m looking to collaborate on Java/Spring projects.
-- 🤔 I’m looking for Spring projects.
+- 🤔 I’m looking for other work on spring projects, ideally in Switzerland.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I maintain my own car.
 
