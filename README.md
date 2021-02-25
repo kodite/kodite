@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I maintain my own car.
 
 🏡 [website][website] **|** 
-🔗 [linkedin][linkedin]
+🔗 [linkedin][linkedin] 
 
 
 [website]: https://kodite.ch
-[linkedin]: linkedin.com/in/istansfield
+[linkedin]: http://linkedin.com/in/istansfield
